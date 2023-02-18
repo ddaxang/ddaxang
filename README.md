@@ -1,7 +1,7 @@
-### 반갑습니다. 웹디자이너 김다경입니다. 👋
+### ✨반갑습니다. 웹디자이너 김다경입니다.✨ 
 
 <!--
-**ddaxang/ddaxang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ddaxang/ddaxang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.👋
 
 Here are some ideas to get you started:
 
