@@ -1,6 +1,8 @@
+
 <h2 align="center">✨반갑습니다. 웹디자이너 김다경입니다.✨ </h2>
-<br>
-<br>
+
+
+
 <h3 align="center">💻 SNS list 💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/>&nbsp
@@ -28,7 +30,9 @@
       <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   </div>
-<br><br><br>
+
+
+
 
 <!--
 **ddaxang/ddaxang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.👋
