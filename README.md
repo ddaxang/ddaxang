@@ -2,7 +2,6 @@
 <br>
 <h3 align="center">✨반갑습니다. 웹디자이너 김다경입니다.✨ </h3>
 <br>
-<br>
 <h4 align="center">🛠스킬(skills)🛠</h4>
   <div align="center">
         <img src="https://img.shields.io/badge/HTML5-FF9900?style=flat&logo=HTML5&logoColor=white" />
