@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90" align="center"/>
 <h2 align="center">✨반갑습니다. 웹디자이너 김다경입니다.✨ </h2>
 
 
