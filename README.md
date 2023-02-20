@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=KIM%20DA-KYOUNG's%20GITHUB&fontSize=35&fontAlignY=35&desc=I%20hope%20to%20see%20you%20again%20on%20Monday.&descAlignY=50&"/>
-<h2 align="center">✨반갑습니다. 웹디자이너 김다경입니다.✨ </h2>
-
-
+<h3 align="center">✨반갑습니다. 웹디자이너 김다경입니다.✨ </h3>
 
 <h3 align="center">💻 SNS list 💻</h3>
 <p align="center">
