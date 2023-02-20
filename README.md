@@ -16,7 +16,6 @@
       <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white" />
       <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
-      <br>
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-148EFF?style=flat&logo=VisualStudioCode&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
       <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white" />
