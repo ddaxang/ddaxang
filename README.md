@@ -1,13 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=KIM%20DA-KYOUNG's%20GITHUB&fontSize=35&fontAlignY=35&desc=I%20hope%20to%20see%20you%20again%20on%20Monday.&descAlignY=50&"/>
 <h3 align="center">✨반갑습니다. 웹디자이너 김다경입니다.✨ </h3>
 
-<h3 align="center">💻 SNS list 💻</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Instagram-A81C7D?style=flat-square&logo=Instagram&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
-</p>
 <h3 align="center"> 📚 Tech Stack 📚</h3>
   <div align="center">
     <h4 align="center"> 🌈used at least once</h4>
